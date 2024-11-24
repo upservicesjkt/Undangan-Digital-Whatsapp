@@ -1,5 +1,4 @@
 node js versi v18.17.0
-
 npm install whatsapp-web.js qrcode-terminal xlsx puppeteer
 
 nb
