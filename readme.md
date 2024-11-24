@@ -16,17 +16,26 @@ Program ini membutuhkan library berikut:
 
 ## 🚀 Cara Menggunakan  
 
-### 1. **Kloning repositori**  
+### 1. **Node Js v18.17.0** 
+pastikan node js menggunakan versi v.18.17.0
+, check terlebih dahulu
+```bash
+node -v
+```
+Jika Belum [Download](https://nodejs.org/en/blog/release/v18.17.0) sesuaikan dengan versi os
+
+### 2. **Kloning repositori**  
 Jalankan perintah berikut untuk mengunduh program:  
 ```bash
 git clone https://github.com/upservicesjkt/Undangan-Digital-Whatsapp && cd Undangan-Digital-Whatsapp
 ```
-### 2. **Install dependencies**
+
+### 3. **Install dependencies**
 Install semua library yang dibutuhkan:
 ```bash
-npm install
+npm install whatsapp-web.js qrcode-terminal xlsx puppeteer
 ```
-### 3. **Siapkan file Excel**
+### 4. **Siapkan file Excel**
 Buat file `undangan.xlsx` dengan format berikut:
 
 - Kolom A: Nama (Wajib)
@@ -34,20 +43,20 @@ Buat file `undangan.xlsx` dengan format berikut:
 - Kolom C: Link undangan
 - Kolom D: Nomor WhatsApp (dengan kode negara, contoh: 6281234567890)
 
-### 4. **Jalankan program**
+### 5. **Jalankan program**
 Jalankan program dengan perintah:
 ```bash
 node whatsapp.js
 ```
-### 5. **Scan QR Code**
+### 6. **Scan QR Code**
 Scan QR Code yang muncul di terminal menggunakan aplikasi WhatsApp untuk login.
 
-### 6. **Proses Pengiriman**
+### 7. **Proses Pengiriman**
 Program akan secara otomatis mengirimkan pesan ke semua kontak yang ada di file Excel.
 
 ## ⚠️ Catatan Penting
-*Pastikan nomor telepon penerima aktif dan formatnya benar.*
-*Jangan mengirim terlalu banyak pesan dalam waktu singkat untuk menghindari pemblokiran akun WhatsApp Anda.*
+- *Pastikan nomor telepon penerima aktif dan formatnya benar.*
+- *Jangan mengirim terlalu banyak pesan dalam waktu singkat untuk menghindari pemblokiran akun WhatsApp Anda.*
 ## 💡 Lisensi
 Program ini menggunakan lisensi MIT. Silakan gunakan sesuai kebutuhan.
 
