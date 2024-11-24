@@ -17,3 +17,11 @@ Program ini membutuhkan library berikut:
 Install dependencies dengan perintah:  
 ```bash
 npm install
+
+🚀 Cara Menggunakan
+Kloning repositori
+Jalankan perintah berikut untuk mengunduh program:
+
+bash
+Copy code
+
