@@ -49,8 +49,10 @@ Program akan secara otomatis mengirimkan pesan ke semua kontak yang ada di file 
 *Pastikan nomor telepon penerima aktif dan formatnya benar.*
 *Jangan mengirim terlalu banyak pesan dalam waktu singkat untuk menghindari pemblokiran akun WhatsApp Anda.*
 ## 💡 Lisensi
-<<<<<<< HEAD
 Program ini menggunakan lisensi MIT. Silakan gunakan sesuai kebutuhan.
-=======
-Program ini menggunakan lisensi MIT. Silakan gunakan sesuai kebutuhan.
->>>>>>> 2601766 (Initial commit)
+
+## 💵 Jika Anda menyukai proyek kami dan ingin mendukung kami, pertimbangkan untuk mendonasikan cryptocurrency. Dukungan Anda akan membantu kami untuk terus berkembang dan memberikan lebih banyak manfaat bagi pengguna kami. Terima kasih atas kebaikan hati Anda! 💵
+Saweria:
+```bash
+https://saweria.co/ITSUGA
+```
