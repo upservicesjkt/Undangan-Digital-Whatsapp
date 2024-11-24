@@ -18,10 +18,9 @@ Install dependencies dengan perintah:
 ```bash
 npm install
 
-🚀 Cara Menggunakan
-Kloning repositori
-Jalankan perintah berikut untuk mengunduh program:
+### 2. **Install dependencies**
+Install semua library yang dibutuhkan:  
+```bash
+npm install
 
-bash
-Copy code
 
