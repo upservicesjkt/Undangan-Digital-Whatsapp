@@ -12,7 +12,12 @@ Program ini dirancang untuk membantu mengirimkan undangan pernikahan secara otom
 Program ini membutuhkan library berikut:  
 - [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)  
 - [qrcode-terminal](https://github.com/gtanner/qrcode-terminal)  
-- [xlsx](https://github.com/SheetJS/sheetjs)  
+- [xlsx](https://github.com/SheetJS/sheetjs)
+
+## 🚀 Simak Tutorial Videonya di Sini! 📽️
+```bash
+https://youtu.be/41xJp54Q4QA
+```
 
 ## 🚀 Cara Menggunakan  
 
