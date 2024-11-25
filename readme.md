@@ -61,7 +61,7 @@ Program akan secara otomatis mengirimkan pesan ke semua kontak yang ada di file 
 
 ## ⚠️ Catatan Penting
 - *Pastikan nomor telepon penerima aktif dan formatnya benar.*
-- *Jangan mengirim terlalu banyak pesan dalam waktu singkat untuk menghindari pemblokiran akun WhatsApp Anda.*
+- *Hindari mengirim terlalu banyak pesan dalam waktu singkat. Gunakan delay yang wajar antara pengiriman pesan untuk mencegah akun WhatsApp Anda terblokir atau dibanned.*
 ## 💡 Lisensi
 Program ini menggunakan lisensi MIT. Silakan gunakan sesuai kebutuhan.
 
