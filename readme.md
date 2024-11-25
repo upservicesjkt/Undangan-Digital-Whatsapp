@@ -65,7 +65,9 @@ Program akan secara otomatis mengirimkan pesan ke semua kontak yang ada di file 
 ## 💡 Lisensi
 Program ini menggunakan lisensi MIT. Silakan gunakan sesuai kebutuhan.
 
-## 💵 Jika Anda menyukai proyek kami dan ingin mendukung kami, pertimbangkan untuk mendonasikan cryptocurrency. Dukungan Anda akan membantu kami untuk terus berkembang dan memberikan lebih banyak manfaat bagi pengguna kami. Terima kasih atas kebaikan hati Anda! 💵
+## 💵 Dukungan Anda Sangat Berarti!
+Jika Anda menyukai proyek kami dan ingin mendukung pengembangan lebih lanjut, bantuan Anda akan memungkinkan kami untuk terus berkembang dan memberikan lebih banyak manfaat bagi para pengguna. Terima kasih atas kebaikan hati dan dukungan Anda! 💵
+
 Saweria:
 ```bash
 https://saweria.co/ITSUGA
